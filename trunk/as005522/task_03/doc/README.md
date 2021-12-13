@@ -64,3 +64,6 @@ int main() {
 <p align="center">
   <img src ="https://github.com/uuujjin/PLCscreenshot/blob/main/6.png">
 </p>
+<p align="center">
+  <img src ="https://github.com/uuujjin/PLCscreenshot/blob/main/lab3.PNG">
+</p>
